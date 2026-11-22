@@ -6,12 +6,12 @@ public class Product {
     int amount;
     double price;
 
-    void updatePrice(double newPrice){
-        price = newPrice;
+    void updatePrice(double price){
+        price = price;
     }
 
-    void addAmount(int amnt){
-        amount = amount + amnt;
+    void addAmount(int amount){
+        this.amount = this.amount + amount;
     }
 
     void printInfo(){
