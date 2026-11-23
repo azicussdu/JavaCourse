@@ -1,4 +1,4 @@
-package om.introduct.javacourse.classes.day1;
+package om.introduct.javacourse.classes.day1B;
 
 public class Product {
     long id;
