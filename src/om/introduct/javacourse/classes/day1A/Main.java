@@ -19,7 +19,7 @@ public class Main {
 //        Student st4 = new Student(2, "Asaad");
 //        st4.introduce();
 
-        Student st6 = new Student();
+//        Student st6 = new Student();
     }
 }
 
